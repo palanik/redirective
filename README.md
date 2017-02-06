@@ -1,6 +1,11 @@
 # redirective
 A shortcut to provide [redirect](https://expressjs.com/en/4x/api.html#res.redirect) callback to Express routes.
 
+[![NPM version](https://img.shields.io/npm/v/redirective.svg?style=flat)](https://www.npmjs.org/package/redirective)
+[![Build Status](https://img.shields.io/travis/palanik/redirective.svg?style=flat)](https://travis-ci.org/palanik/redirective)
+[![Coverage Status](https://coveralls.io/repos/palanik/redirective/badge.svg?service=github)](https://coveralls.io/github/palanik/redirective)
+
+
 ## Installation
 
 ```sh
