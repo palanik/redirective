@@ -1,5 +1,5 @@
 # redirective
-A shortcut to provide [redirect](https://expressjs.com/en/4x/api.html#res.redirect) callback to Express routes.
+Shortcut to provide [redirect](https://expressjs.com/en/4x/api.html#res.redirect) callback to Express routes.
 
 ```JS
 app.use('/users/:userId', redirect('https://new-server/users/:userId'));
@@ -76,7 +76,9 @@ Same signature as [`res.redirect`](http://expressjs.com/en/4x/api.html#res.redir
 
     The url can have [Express Route](https://expressjs.com/en/guide/routing.html#route-parameters) style named parameters.
 
-    Named parameters in redirect url will be substituted with values from same named parameters in source path. Refer [example](#url-with-parameters).
+    Named parameters in redirect url will be substituted with values from same named parameters in source path.
+
+    Refer [example](#url-with-parameters).
 
 
 ## License

@@ -1,6 +1,6 @@
 {
   "name": "redirective",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Node.js Express redirect shortcut",
   "main": "lib/index.js",
   "babel": {
@@ -34,6 +34,7 @@
     "routing",
     "middleware",
     "redirect",
+    "param",
     "redirection",
     "redirector",
     "redirective",
